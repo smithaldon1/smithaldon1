@@ -1,7 +1,6 @@
 ### Hi there, I'm Aldon 👋 
 
 ## I am a (soon-to-be) Husband, Developer, and Engineer! Go Pirates!
----
 
 - 🧳  I am the CEO/Co-Founder of my own side-business: [Smith Brother's Development](https://smithbros.dev)
 - 🌱  I am currently learning everything I can about Full Stack Web Development.
