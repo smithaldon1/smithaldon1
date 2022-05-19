@@ -1,18 +1,18 @@
 ### Hi there, I'm Aldon 👋 
 
-## I am a (soon-to-be) Husband, Developer, and Engineer! Go Pirates!
+## I am a Husband, Developer, and Engineer! Go ECU Pirates!
 
-- 🧳  I am the CEO/Co-Founder of my own side-business: [Smith Brother's Development](https://smithbros.dev)
-- 🌱  I am currently learning everything I can about Full Stack Web Development.
-- 👯  I am looking to collaborate with other new developers to develop our skills.
-- 🥅  2020/21 Goals: 
+- 🧳  I am a Historian Strategy Lead at [Skellig Automation](https://skellig.com)
+- 🌱  I am currently working on tools and applications to help life science manufacturers with their conversion from Industry 3.0 to 
+        Industry 4.0
+- 👯  I am looking to collaborate with other developers to develop our skills, and bounce ideas off of each other.
+- 🥅  2022/23 Goals: 
     1. Contribute more to Open Source projects. 🧠
-    2. Beef up my design and code portfolio. 🧙‍♂️ 
-    3. Land a job as a Full Stack/Frontend Developer. 👨‍💻
-- ⚡  Fun Fact: I currently make drugs for a living (legally)
+    2. Work on my code magic skills (mainly Python). 🧙‍♂️ 
+    3. Be the best version of myself that I can be. 💥
+- ⚡  Fun Fact: I currently make drugs for a living (legally).
 
 ### Connect with me:
-[<img align="left" alt="aldonsmith.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aldonsmith7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aldon_smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
