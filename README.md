@@ -2,7 +2,7 @@
 
 ## I am a Husband, Developer, and Engineer! Go ECU Pirates!
 
-- 🧳  I am a Historian Strategy Lead at [Skellig Automation](https://skellig.com)
+- 🧳  I am an Industrial Automation and Controls Engineer that works as a Historian Strategy Lead for [Skellig Automation](https://skellig.com)
 - 🌱  I am currently working on tools and applications to help life science manufacturers with their conversion from Industry 3.0 to 
         Industry 4.0
 - 👯  I am looking to collaborate with other developers to develop our skills, and bounce ideas off of each other.
@@ -10,7 +10,7 @@
     1. Contribute more to Open Source projects. 🧠
     2. Work on my code magic skills (mainly Python). 🧙‍♂️ 
     3. Be the best version of myself that I can be. 💥
-- ⚡  Fun Fact: I currently make drugs for a living (legally).
+- ⚡  Fun Fact: I want to make a positive impact on this world before I leave it.
 
 ### Connect with me:
 [<img align="left" alt="aldonsmith7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://aldonsmith.co
-[business]: https://smithbros.dev
+[website]: https://aldonpsmith.com
+[business]: https://techsmiths.io
 [twitter]: https://twitter.com/AldonSmith7
 [linkedin]: https://www.linkedin.com/in/aldon-smith/
