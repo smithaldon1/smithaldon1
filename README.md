@@ -10,7 +10,7 @@
     1. Contribute more to Open Source projects. 🧠
     2. Work on my code magic skills (mainly Python). 🧙‍♂️ 
     3. Be the best version of myself that I can be. 💥
-- ⚡  Fun Fact: I want to make a positive impact on this world before I leave it.
+- ⚡  Fun Fact: I have had 8 concussions over the span of 6 years.
 
 ### Connect with me:
 [<img align="left" alt="aldonsmith7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
