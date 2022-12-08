@@ -19,11 +19,6 @@
 <br />
 <br />
 
----
-
-[![Aldon's github stats](https://github-readme-stats.vercel.app/api?username=smithaldon1)](https://github.com/smithaldon1/github-readme-stats)
-
-
 <!--
 **smithaldon1/smithaldon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
