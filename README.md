@@ -2,11 +2,10 @@
 
 ## I am a Husband, Developer, and Engineer! Go ECU Pirates!
 
-- 🧳  I am a passionate automation engineer by trade, at [Skellig Automation](https://skellig.com)
-- 🌱  We are currently working on open-source tools and applications to help life science manufacturers with their conversion from Industry 3.0 to 
-        Industry 4.0
+- 🧳  I am a passionate Senior Automation Engineer by trade, at [Castle Hill Technologies](https://www.castlehilltech.com)
+- 🌱  I am currently working on passion projects that help me integrate newer technology into the Life Sciences/Biotechnology industries.
 - 👯  I am looking to collaborate with other developers to develop our skills, and bounce ideas off of each other.
-- 🥅  2023 Yearly Theme: The Year of Personal/Team Development.
+- 🥅  2024 Yearly Theme: The Year of Personal/Team Development.
 
 ### How to connect me:
 [<img align="left" alt="Aldon @ Boneyard Techs | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />][email]
@@ -31,8 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://aldonpsmith.com
-[business]: https://boneyardtechs.com
 [twitter]: https://twitter.com/AldonSmith7
 [linkedin]: https://www.linkedin.com/in/aldon-smith/
-[email]: mailto:aldon@boneyardtechs.com
+[email]: mailto:smithaldon@gmail.com
