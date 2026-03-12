@@ -2,10 +2,10 @@
 
 ## I am a Husband, Developer, and Engineer! Go ECU Pirates!
 
-- 🧳  I am a passionate Senior Automation Engineer by trade, at [Castle Hill Technologies](https://www.castlehilltech.com)
+- 🧳  I am a passionate Senior Automation Engineer at [Flexware Innovation](https://www.flexware.com)
 - 🌱  I am currently working on passion projects that help me integrate newer technology into the Life Sciences/Biotechnology industries.
 - 👯  I am looking to collaborate with other developers to develop our skills, and bounce ideas off of each other.
-- 🥅  2024 Yearly Theme: The Year of Personal/Team Development.
+- 🥅  2026 Yearly Theme: The Year of Personal/Team Development.
 
 ### How to connect me:
 [<img align="left" alt="Aldon @ Boneyard Techs | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />][email]
