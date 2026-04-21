@@ -1,6 +1,6 @@
 ### Hi there, I'm Aldon (Pronounced All-den) 👋 
 
-## I am a Husband, Developer, and Engineer! Go ECU Pirates!
+## I am a Father, Husband, and Engineer! Go ECU Pirates!
 
 - 🧳  I am a passionate Senior Automation Engineer at [Flexware Innovation](https://www.flexware.com)
 - 🌱  I am currently working on passion projects that help me integrate newer technology into the Life Sciences/Biotechnology industries.
@@ -8,7 +8,7 @@
 - 🥅  2026 Yearly Theme: The Year of Personal/Team Development.
 
 ### How to connect me:
-[<img align="left" alt="Aldon @ Boneyard Techs | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />][email]
+[<img align="left" alt="Aldon Smith | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />][email]
 [<img align="left" alt="aldonsmith7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aldon_smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />][linkedin]
 
