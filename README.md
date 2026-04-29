@@ -5,12 +5,13 @@
 - 🧳  I am a passionate Senior Automation Engineer at [Flexware Innovation](https://www.flexware.com)
 - 🌱  I am currently working on passion projects that help me integrate newer technology into the Life Sciences/Biotechnology industries.
 - 👯  I am looking to collaborate with other developers to develop our skills, and bounce ideas off of each other.
-- 🥅  2026 Yearly Theme: The Year of Personal/Team Development.
+- 🥅  2026 Yearly Theme: The Year of Family.
 
-### How to connect me:
+### How to connect with me:
 [<img align="left" alt="Aldon Smith | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />][email]
 [<img align="left" alt="aldonsmith7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />][twitter]
 [<img align="left" alt="aldon_smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aldon Smith | Website" width="22px" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/globe.svg" />][website]
 
 <br />
 <br />
@@ -33,3 +34,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/AldonSmith7
 [linkedin]: https://www.linkedin.com/in/aldon-smith/
 [email]: mailto:smithaldon@gmail.com
+[website]: https://aldonpsmith.com
